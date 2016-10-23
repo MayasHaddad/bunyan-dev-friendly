@@ -1,4 +1,5 @@
-# bunyan-dev-friendly
+# bunyan-dev-friendly [![dependencies Status](https://david-dm.org/MayasHaddad/bunyan-dev-friendly/status.svg)](https://david-dm.org/MayasHaddad/bunyan-dev-friendly)
+
 Switch off bunyan logging when NODE_ENV=development
 
 ## Example
