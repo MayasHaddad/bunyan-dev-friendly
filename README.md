@@ -29,7 +29,7 @@ log('hello world')
 ## Now
 
 ```console
-NODE_ENV=development node log.js
+$> NODE_ENV=development node log.js
 ```
 results in console
 ```console
@@ -40,7 +40,7 @@ and...
 
 
 ```console
-NODE_ENV=other node log.js
+$> NODE_ENV=other node log.js
 ```
 results in log-file.log:
 ```
