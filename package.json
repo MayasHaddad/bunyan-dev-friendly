@@ -1,6 +1,6 @@
 {
   "name": "bunyan-dev-friendly",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "switch off bunyan logging when NODE_ENV=development",
   "main": "index.js",
   "keywords": [],
