@@ -23,7 +23,7 @@ var log = logger(
 )
 
 ...
-log('hello world')
+log.info('hello world')
 ```
 
 ## Now
