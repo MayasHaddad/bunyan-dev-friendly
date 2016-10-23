@@ -1,0 +1,12 @@
+{
+  "name": "bunyan-dev-friendly",
+  "version": "1.0.0",
+  "description": "switch off bunyan logging when NODE_ENV=development",
+  "main": "index.js",
+  "keywords": [],
+  "author": "Mayas Haddad",
+  "license": "ISC",
+  "dependencies": {
+    "bunyan": "^1.8.3"
+  }
+}
