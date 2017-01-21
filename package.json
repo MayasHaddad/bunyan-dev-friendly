@@ -1,7 +1,7 @@
 {
   "name": "bunyan-dev-friendly",
-  "version": "1.0.2",
-  "description": "switch off bunyan logging when NODE_ENV=development",
+  "version": "2.0.0",
+  "description": "log only when NODE_ENV=production",
   "main": "index.js",
   "keywords": [],
   "author": "Mayas Haddad",
